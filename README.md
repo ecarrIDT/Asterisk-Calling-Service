@@ -12,10 +12,13 @@ interface to Asterisk using a combination of web sockets (that are used to see t
 
 ACS goal is to provide Communications-as-a-Service (CaaS) and will look to replace the PCS OCM Server/Dialer component to play messages to Boss Revolution Customers.
 
+
 ## Features
 
 ## Requires
+
 ### CyCoreSystems -- For the Golang version of the Asterisk RESTful Interface (ARI)
+
 
 ## Configurations
 
@@ -30,3 +33,7 @@ ACS goal is to provide Communications-as-a-Service (CaaS) and will look to repla
 ## Logs
 
 ## Alerts
+
+## Confluence Documentation
+
+https://idtjira.atlassian.net/wiki/spaces/TEAM/pages/1068433507/Dialer+Service?search_id=c5c921e8-78eb-405f-9994-97a9c273db07
